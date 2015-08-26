@@ -1,0 +1,72 @@
+" Not vi compatible
+set nocompatible
+
+" UI customization
+set background=dark
+colorscheme wombat256i
+syntax on
+set number
+
+" Enable clipboard for version compiled with +clipboard
+set clipboard=unnamed
+
+" Enhance command-line completion
+set wildmenu
+
+" Allow cursos keys in insert mode
+set esckeys 
+
+" Allow backspace in insert mode
+set backspace=indent,eol,start
+
+" Add the g flag to search/replace by default
+set gdefault
+
+" Ignore case on search
+set ignorecase
+
+" Highlight incremental search
+set incsearch
+
+" Highlight search
+set hlsearch
+
+" Always show status line
+set laststatus=2
+
+" Enable mouse in all modes
+set mouse=a
+
+" Disable error bells
+set noerrorbells
+
+" Show cursor position
+set ruler
+
+" Highlight cursor line
+set cursorline
+
+" Show the current mode
+set showmode
+
+" Show the filename in titlebar
+set title
+
+" Show the command as its being typed
+set showcmd
+
+" Change Mapleader
+let mapleader=","
+
+" Show match for {} and []
+set showmatch
+
+" Mappings
+nmap <Space> :
+nmap <leader>s /
+nmap <leader>r :%s/
+nmap y +"y
+nmap p +"p
+
+" Enable Pathogen plugin manager
+" execute pathogen#infect()
