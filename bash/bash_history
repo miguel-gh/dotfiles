@@ -1,0 +1,500 @@
+yo --version
+nvm --help
+nvm install v6.9.4 --lts --reinstall-packages-from=system
+nvm ls
+cd .nvm/
+ll
+cd versions/
+ll
+cd nd
+cd node/
+ll
+cd v6.9.4/
+ll
+cd lib/
+ll
+cd node_modules/
+ll
+ll
+cd
+npm --version
+npm --help
+npm -l
+node --version
+cd Work/
+ll
+cd lab/
+ll
+cd yeoman-mean/
+ll
+yo
+cd .nvm/
+ll
+cd versions/node/
+ll
+cd v6.9.4/
+ll
+cd lib/
+ll
+cd node_modules/
+ll
+pwd
+mvim ~/.bash_profile
+. ~/.bash_profile 
+ll
+npm whoami yo
+npm help
+nvm --help
+ping www.google.cl
+d-tinet 
+ll
+d-bci 
+ll
+cd ui-tests-devops/
+ll
+ll
+cd ui-tests/
+ll
+git status
+git diff features/step_definitions/seleccion_tarjeta.rb 
+git branch
+atom .
+ll
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+bundle install
+ll
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+pwd
+ll
+cd features/
+ll
+cd support/
+ll
+irb
+ll
+ll
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ping www.google.cl
+ll
+ruby test_db.rb 
+ll
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+ruby test_db.rb 
+CD..
+cd ..
+cd ..
+ll
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+Gemfile
+vim Gemfile
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+rb features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+git status
+git add .
+git stauts
+git status
+git branch
+git reset
+ll
+cd reports/
+ll
+vim .gitignore
+cd ..
+git add .
+git status
+ll
+git commit -m'check de creacion de prospecto'
+git push origin master
+ll
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+cucumber features/etapas_viajes/1_registrar_prospecto.feature 
+ll
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ruby features/support/test_db.rb 
+ll
+git status
+git add .
+git status
+git commit -m'se agregan pasos para tarjeta'
+git push origin master
+lll
+ll
+ping www.google.cl
+ping www.google.cl
+ping www.google.cl
+ping www.google.cl
+sublime .
+cat ~/.bash_aliases 
+ping www.google.cl
+node --version
+npm --version
+node --help
+npm --version
+npm --help
+npm install --global npm@latest
+npm --version
+npm install --global yo
+yo --version
+npm install --global generator-fountain-webapp
+yo
+cd
+ll
+d-wom 
+cd
+cd Work/
+ll
+cd lab/
+ll
+mkdir yeoman-mean
+ll
+cd yeoman-mean/
+ll
+mkdir mytodo && cd mytodo
+ll
+yo
+ll
+cat tslint.json 
+ll
+cd src/
+ll
+cd ..
+aom .
+atom .
+ll
+npm run serve
+ll
+cd ..
+ll
+rm -rf mytodo/
+ll
+mkdir mytodo
+cd mytodo/
+ll
+yo
+ll
+cd ..
+ll
+rm -rf mytodo/
+yo
+ll
+node start serve
+npm run serve
+npm run serve
+node --version
+node use 6.9.4
+. ~/.bash_profile 
+node use 6.9.4
+npm --help
+npm v yo
+yo --version
+ll
+npm start serve
+npm start serve
+node --version
+npm --version
+ll
+ll
+cd ..
+ll
+cd yeoman-mean/
+ll
+rm -rf .
+rm -rf *
+ll
+mkdir mytodo
+l
+ll
+cd mytodo/
+ll
+yo
+npm info yo
+npm --help
+ll
+ll
+yo
+npm start serve
+npm run serve
+ll
+ll
+cd ..
+ll
+rm -rf *
+ll
+ls -la
+rm -rf .*
+ls -la
+ll
+mkdir mytodo
+ll
+cd mytodo/
+ll
+yo fountain-js
+yo --help
+yo fountain-webapp
+ll
+ccd ..
+cd ..
+ll
+cd mytodo/
+ll
+open .
+atom .
+ll
+npm run serve
+atom .
+npm run test
+npm test
+npm test
+yo --generator
+yo --generators
+cd ..
+ll
+npm install -g v
+npm install -g generator-angular-fullstack
+ll
+ll
+mkdir angular-fs
+ll
+cd angular-fs/
+ll
+yo --generators
+npm install -g generator-angular-fullstack@alpha
+yo --version
+yo --generators
+yo angular-fullstack
+npm search yeoman-generator
+npm install -g fountain-angular2
+npm install -g yo generator-angular2
+ll
+yo --generator
+yo --generators
+oll
+yo
+yo
+yo
+yo --generators
+node --version
+cd ~/.nvm/versions/node/v6.9.4/lib/
+ll
+cd nd
+cd node_modules/
+ll
+cd generator-angular2/
+ll
+cd
+npm install -g yeoman
+npm install -g yo
+yo --generators
+yo --version
+cucumber --help
+ll
+d-wom 
+ll
+cd transformacion-loadtests
+ll
+cd logs/
+lll
+ll
+less +F 2017-01-16_12-52-31.893531_test_1/locust.log 
+d-wom m
+ll
+cd transformacion-loadtests
+l
+ll
+. env/bin/activate
+ll
+bzt conf/home-test.yml 
+ll
+ll
+ll
+cd
+cd /Library/
+ll
+cd LaunchDaemons/
+ll
+rm com.docker.vmnetd.plist 
+ll
+sudo rm com.docker.vmnetd.plist 
+ll
+rm com.cisco.anyconnect.*
+ll
+sudo rm com.cisco.anyconnect.*
+ll
+sudo rm com.google.keystone.daemon.plist 
+ll
+sudo rm com.teamviewer.*
+ll
+sudo rm org.pqrs.Karabiner.load.plist 
+ll
+cat PPPMonitor.plist 
+cd /Library/
+ll
+cd LaunchDaemons/
+ll
+cd
+cd Library/
+ll
+cd LaunchAgents/
+ll
+rm com.github.facebook.watchman.plist 
+ll
+sudo rm com.citrixonline.GoToMeeting.G2MUpdate.plist 
+ll
+ll
+rm com.spotify.webhelper.plist 
+ll
+rm com.valvesoftware.steamclean.plist 
+ll
+cd ..
+ll
+l
+cd Services/
+ll
+l
+cd ..
+l
+cd Application\ Scripts/
+l
+cd ..
+cd Application\ Support/
+l
+cd CitrixOnline/
+l
+cd ..
+cd /
+cd Applications/
+ll
+l
+rm -rf Veertu.app/
+ll
+l
+sudo rm -rf Veertu.app/
+cd Cisco/
+l
+open .
+ll
+cd ..
+ll
+rl
+l
+rm -rf Cisco/
+sudo rm -rf Cisco/
+l
+ll
+ll
+ll
+ll
+ll
+d-down
+l
+mvim Creación_Prospecto.sql 
+vim Creación_Prospecto.sql 
+mvim Creación_Prospecto.sql 
+ping 161.131.141.251
+ping 161.131.141.251
+ping 161.131.141.251
+ssh 161.131.140.64
+ssh root@161.131.140.64
+ll
+d-down 
+ll
+l
+ls -l
+ll
+ll
+cd ll
+l
+d-wom 
+ll
+cd transformacion-loadtests
+ll
+. env/bin/activate
+ll
+deactivate 
+ll
+cd Work/
+l
+cd lab/
+ll
+cd swift/
+ll
+vim hello.swift
+ll
+swiftc hello.swift -o hello
+l
+./hello
+cd ..
+ll
+cd go/
+ll
+cd src/
+ll
+cd github.com/
+ll
+cd miguel-gh/
+ll
+cd hello/
+ll
+cat hello.go 
+vim hello.go 
+ll
+go build hello.go 
+ll
+./hello 
+ll
+ll
+l

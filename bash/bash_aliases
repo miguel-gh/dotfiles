@@ -1,0 +1,26 @@
+# Listing
+alias ll='ls -ltrh'
+alias l='ls -tr'
+alias ld='ls -ltrd */'
+alias la='ls -a'
+
+# Quick Directories
+alias d-down='cd ~/Downloads'
+alias d-fenix='cd ~/Work/Tinet/qa/phoenix'
+alias d-tinet='cd ~/Work/Tinet'
+alias d-qubit='cd ~/Work/Qubit'
+alias d-poderes='cd ~/Work/Qubit/notaria/forms/modulos/mod_poderes'
+alias d-taller='cd ~/Work/Tinet/qa/phoenix/taller'
+alias d-feature='cd ~/Work/Tinet/dev/feature-manager'
+alias d-load='cd /Users/miguel/Work/Tinet/qa/phoenix/lab/load_testing'
+alias d-wom='cd ~/Work/Tinet/qa/wom'
+alias d-bci='cd /Users/miguel/Work/Tinet/qa/bci'
+
+# VIM installed using Brew
+alias vim='/usr/local/bin/vim'
+alias mvim='/usr/local/bin/mvim'
+
+# Other Apps
+alias markoff='open -a Markoff'
+alias sublime='open -a "Sublime Text"'
+
