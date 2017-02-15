@@ -1,72 +1,73 @@
-" Not vi compatible
+" Sin compatibiladad con Vi
 set nocompatible
 
-" UI customization
-set background=dark
-colorscheme wombat256i
-syntax on
-set number
+" Usar <Space> como comando
+nmap <Space> :
 
-" Enable clipboard for version compiled with +clipboard
-set clipboard=unnamed
-
-" Enhance command-line completion
-set wildmenu
-
-" Allow cursos keys in insert mode
-set esckeys 
-
-" Allow backspace in insert mode
+" En caso de tener problemas como funciona delete y backspace
 set backspace=indent,eol,start
 
-" Add the g flag to search/replace by default
-set gdefault
+" Encoding utilizado dentro de VIM
+set encoding=utf-8
 
-" Ignore case on search
+" Espacios como tab
+set tabstop=4 shiftwidth=4 expandtab
+
+" Identacion automatica 
+filetype plugin indent on
+
+" Show line numbers 
+set nu
+
+" Habilita color de sintaxis
+syntax on
+
+" Display all matching files when tab complete
+set wildmenu 
+
+" Set title on
+set title
+
+" Set colors for dark backgrounds
+set background=dark
+
+" Always show status
+set laststatus=2
+
+" Ignore case for search
 set ignorecase
 
-" Highlight incremental search
+" Smart case for search
+set smartcase
+
+" Highlight search while typing
 set incsearch
 
 " Highlight search
 set hlsearch
 
-" Always show status line
-set laststatus=2
+" yank and paste selection without prepend "* 
+set clipboard=unnamed
 
-" Enable mouse in all modes
+" use mouse for all modes
 set mouse=a
 
-" Disable error bells
-set noerrorbells
-
-" Show cursor position
-set ruler
-
-" Highlight cursor line
+" Set cursor line highlight
 set cursorline
 
-" Show the current mode
-set showmode
+" Auto Reload .vimrc 
+autocmd! bufwritepost .vimrc source %
 
-" Show the filename in titlebar
-set title
+" Search down into subfolders
+" Provides tab-completion for all file-related tasks
+set path+=**
 
-" Show the command as its being typed
-set showcmd
+" Type MakeTags and create 'tags' file (need ctags to be installed)
+command! MakeTags !ctags -R .
 
-" Change Mapleader
-let mapleader=","
+" Tweaks file browsing 
+let g:netrw_banner=0        " disables banner
+let g:netrw_liststyle=3     " tree view
 
-" Show match for {} and []
-set showmatch
-
-" Mappings
-nmap <Space> :
-nmap <leader>s /
-nmap <leader>r :%s/
-nmap y +"y
-nmap p +"p
-
-" Enable Pathogen plugin manager
-" execute pathogen#infect()
+" Pathogen
+execute pathogen#infect()
