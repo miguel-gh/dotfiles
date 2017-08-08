@@ -11,7 +11,7 @@ set backspace=indent,eol,start
 set encoding=utf-8
 
 " Espacios como tab
-set tabstop=4 shiftwidth=4 expandtab
+set tabstop=2 shiftwidth=2 expandtab
 
 " Identacion automatica 
 filetype plugin indent on
@@ -55,6 +55,12 @@ set mouse=a
 " Set cursor line highlight
 set cursorline
 
+" Foldmethod
+" set foldmethod=syntax
+
+" Copy Visual Selected and Search
+vnoremap // y/<C-R>"<CR>
+
 " Auto Reload .vimrc 
 autocmd! bufwritepost .vimrc source %
 
@@ -68,6 +74,27 @@ command! MakeTags !ctags -R .
 " Tweaks file browsing 
 let g:netrw_banner=0        " disables banner
 let g:netrw_liststyle=3     " tree view
+
+" Statusline
+set statusline=%f\ %y%=%{fugitive#statusline()}\ \%l/%L
+
+" Javascript
+let g:javascript_plugin_jsdoc = 1
+let g:javascript_plugin_ngdoc = 1
+
+" NERDTree
+silent! nmap <F4> :NERDTreeToggle<CR>
+silent! map <F3> :NERDTreeFind<CR>
+let g:NERDTreeMapActivateNode="<F3>"
+"let g:NERDTreeMapPreview="<F4>"
+
+" CtrlP
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlP'
+let g:ctrlp_working_path_mode = 'ra'
+let g:ctrlp_root_markers = ['pom.xml', '.p4ignore']
+let g:ctrlp_custom_ignore = '\v[\/]\.(git|hg|svn)$'
+let g:ctrlp_user_command = 'find %s -type f' 
 
 " Pathogen
 execute pathogen#infect()

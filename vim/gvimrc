@@ -1,0 +1,12 @@
+" Solo para mvim
+
+" color scheme
+colorscheme solarized 
+
+set background=light
+
+" gui font
+set guifont=Monaco:h14
+
+autocmd! bufwritepost .gvimrc source %
+
