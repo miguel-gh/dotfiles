@@ -2,7 +2,7 @@
 export HOMEBREW_GITHUB_API_TOKEN=ab5568af790e48f9b94597c744ca6810dfecca05
 
 # Python PIP
-export PIP_REQUIRE_VIRTUALENV=true
+# export PIP_REQUIRE_VIRTUALENV=true
 
 #gpip(){
 #    PIP_REQUIRE_VIRTUALENV="" pip "$@";

@@ -1,500 +1,500 @@
-yo --version
-nvm --help
-nvm install v6.9.4 --lts --reinstall-packages-from=system
-nvm ls
-cd .nvm/
+tmls
+tmls
+tmux new-session -s all
+cd ~/Work/Tinet/qa/
 ll
-cd versions/
+cd cd doc-estandar-qa/
 ll
-cd nd
-cd node/
+cd doc-estandar-qa/
 ll
-cd v6.9.4/
-ll
-cd lib/
-ll
-cd node_modules/
-ll
-ll
-cd
-npm --version
-npm --help
-npm -l
-node --version
-cd Work/
-ll
-cd lab/
-ll
-cd yeoman-mean/
-ll
-yo
-cd .nvm/
-ll
-cd versions/node/
-ll
-cd v6.9.4/
-ll
-cd lib/
-ll
-cd node_modules/
-ll
-pwd
-mvim ~/.bash_profile
-. ~/.bash_profile 
-ll
-npm whoami yo
-npm help
-nvm --help
-ping www.google.cl
-d-tinet 
-ll
-d-bci 
-ll
-cd ui-tests-devops/
-ll
-ll
-cd ui-tests/
-ll
-git status
-git diff features/step_definitions/seleccion_tarjeta.rb 
-git branch
-atom .
-ll
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-bundle install
-ll
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-pwd
-ll
-cd features/
-ll
-cd support/
-ll
-irb
-ll
-ll
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ping www.google.cl
-ll
-ruby test_db.rb 
-ll
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-ruby test_db.rb 
-CD..
-cd ..
-cd ..
-ll
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-Gemfile
-vim Gemfile
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-rb features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-git status
+git st
 git add .
-git stauts
-git status
-git branch
-git reset
+git commit -m 'update: se agrega tema MkDocs al requirements.txt y se actualiza el README'
+git st
+git push origin develop
+git pull --rebase
+git log -n 10 --onebase
+git log -n10 --oneline
+git st
+git add .
+git commit -m 'update: performance > introduccion OK'
+open .
+git st
+git add .
+git pull --rebase
+git commit -m 'update: performance > se agregan herramientas, tipos de pruebas'
+git pull --rebase
+git push origin develop
 ll
-cd reports/
+. ENV/bin/activate
+pip freeze
+git st
+ping www.google.cl
+l
+git st
+git pull --rebase
+git log -n 10 --oneline
+code .
+git st
+git add .
+git commit -m 'new: performance > se finaliza la seccion de pruebas de performance'
+git pull --rebase
+git push
+git log -n 10 -oneline
+git log -n 10 --oneline
+mysqld --port 8889
+mysql -u root -p
+mysql -u root -p
+ll
+cd  ~/Work/Tinet/operaciones/jhipster/example
+ll
+ll
+cd ..
+ll
+mkdir demo
+ll
+cd demo/
+l
+ll
+jhipster --version
+jhipster app MiAppTinet
+ll
+cd ..
+ll
+rm -rf demo/
+ll
+mkdir demo2
+ll
+cd demo2/
+jhipster --version
+jhipster app miApp
+cd ~/Work/Tinet/operaciones/jhipster/example
+l
+yarn start
+yarn start
+yarn start
+yarn start
+ll
+cd ~/Work/Tinet/
+ll
+cd qa/
+ll
+cd ..
+ll
+cd operaciones/
+ll
+ll
+mkdir jhipster
+ll
+cd jhipster/
+ll
+mkdir example
+ll
+cd example/
+jhipster --version
+jhipster -v
+ll
+jhipster --version
+jhipster --help
+jhipster app miApp
+ll
+code .
+yarn install
+ll
+./mvnw 
+./mvnw 
+./mvnw 
+./mvnw 
+jhipster --help
+jhipster entity factura
+./mvnw 
+./mvnw 
+mysql -u root -p
+ll
+jhipster --version
+ping www.google.cl
+ping www.google.cl
+ping www.google.cl
+ping www.google.cl
+ll
+cd ~/Work/Tinet/qa/
+ll
+cd wom/
+ll
+cd ..
+ll
+cd doc-estandar-qa/
+ll
+cd estandar-qa/
+ll
+ll
+cd docs/
+ll
+cd ..
+ll
+git pull --rebase
+git branch
+git log -n 10 --oneline
+ll
+cd ..
+ll
+cd estandar-qa/
+ll
+cd custom_theme/
+ll
+cd ..
+l
+ll
+cd docs/
+ll
+cd ..
+ll
+cd ..
 ll
 vim .gitignore
-cd ..
-git add .
-git status
 ll
-git commit -m'check de creacion de prospecto'
-git push origin master
-ll
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-cucumber features/etapas_viajes/1_registrar_prospecto.feature 
-ll
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ruby features/support/test_db.rb 
-ll
-git status
-git add .
-git status
-git commit -m'se agregan pasos para tarjeta'
-git push origin master
-lll
-ll
-ping www.google.cl
-ping www.google.cl
-ping www.google.cl
-ping www.google.cl
-sublime .
-cat ~/.bash_aliases 
-ping www.google.cl
-node --version
-npm --version
-node --help
-npm --version
-npm --help
-npm install --global npm@latest
-npm --version
-npm install --global yo
-yo --version
-npm install --global generator-fountain-webapp
-yo
-cd
-ll
-d-wom 
-cd
-cd Work/
-ll
-cd lab/
-ll
-mkdir yeoman-mean
-ll
-cd yeoman-mean/
-ll
-mkdir mytodo && cd mytodo
-ll
-yo
-ll
-cat tslint.json 
-ll
-cd src/
-ll
-cd ..
-aom .
-atom .
-ll
-npm run serve
-ll
-cd ..
-ll
-rm -rf mytodo/
-ll
-mkdir mytodo
-cd mytodo/
-ll
-yo
-ll
-cd ..
-ll
-rm -rf mytodo/
-yo
-ll
-node start serve
-npm run serve
-npm run serve
-node --version
-node use 6.9.4
-. ~/.bash_profile 
-node use 6.9.4
-npm --help
-npm v yo
-yo --version
-ll
-npm start serve
-npm start serve
-node --version
-npm --version
+cd estandar-qa/
 ll
 ll
-cd ..
+vim .gitignore
 ll
-cd yeoman-mean/
+virtualenv ENV
 ll
-rm -rf .
-rm -rf *
+. ENV/bin/activate
 ll
-mkdir mytodo
+pip --versio
+pip --version
+pip install mkdocs
 l
-ll
-cd mytodo/
-ll
-yo
-npm info yo
-npm --help
-ll
-ll
-yo
-npm start serve
-npm run serve
-ll
-ll
-cd ..
-ll
-rm -rf *
-ll
-ls -la
-rm -rf .*
-ls -la
-ll
-mkdir mytodo
-ll
-cd mytodo/
-ll
-yo fountain-js
-yo --help
-yo fountain-webapp
-ll
-ccd ..
-cd ..
-ll
-cd mytodo/
-ll
-open .
-atom .
-ll
-npm run serve
-atom .
-npm run test
-npm test
-npm test
-yo --generator
-yo --generators
-cd ..
-ll
-npm install -g v
-npm install -g generator-angular-fullstack
-ll
-ll
-mkdir angular-fs
-ll
-cd angular-fs/
-ll
-yo --generators
-npm install -g generator-angular-fullstack@alpha
-yo --version
-yo --generators
-yo angular-fullstack
-npm search yeoman-generator
-npm install -g fountain-angular2
-npm install -g yo generator-angular2
-ll
-yo --generator
-yo --generators
-oll
-yo
-yo
-yo
-yo --generators
-node --version
-cd ~/.nvm/versions/node/v6.9.4/lib/
-ll
-cd nd
-cd node_modules/
-ll
-cd generator-angular2/
-ll
-cd
-npm install -g yeoman
-npm install -g yo
-yo --generators
-yo --version
-cucumber --help
-ll
-d-wom 
-ll
-cd transformacion-loadtests
-ll
-cd logs/
-lll
-ll
-less +F 2017-01-16_12-52-31.893531_test_1/locust.log 
-d-wom m
-ll
-cd transformacion-loadtests
-l
-ll
-. env/bin/activate
-ll
-bzt conf/home-test.yml 
-ll
-ll
-ll
-cd
-cd /Library/
-ll
-cd LaunchDaemons/
-ll
-rm com.docker.vmnetd.plist 
-ll
-sudo rm com.docker.vmnetd.plist 
-ll
-rm com.cisco.anyconnect.*
-ll
-sudo rm com.cisco.anyconnect.*
-ll
-sudo rm com.google.keystone.daemon.plist 
-ll
-sudo rm com.teamviewer.*
-ll
-sudo rm org.pqrs.Karabiner.load.plist 
-ll
-cat PPPMonitor.plist 
-cd /Library/
-ll
-cd LaunchDaemons/
-ll
-cd
-cd Library/
-ll
-cd LaunchAgents/
-ll
-rm com.github.facebook.watchman.plist 
-ll
-sudo rm com.citrixonline.GoToMeeting.G2MUpdate.plist 
-ll
-ll
-rm com.spotify.webhelper.plist 
-ll
-rm com.valvesoftware.steamclean.plist 
-ll
-cd ..
-ll
-l
-cd Services/
-ll
-l
-cd ..
-l
-cd Application\ Scripts/
-l
-cd ..
-cd Application\ Support/
-l
-cd CitrixOnline/
-l
-cd ..
-cd /
-cd Applications/
-ll
-l
-rm -rf Veertu.app/
-ll
-l
-sudo rm -rf Veertu.app/
-cd Cisco/
-l
-open .
-ll
-cd ..
-ll
-rl
-l
-rm -rf Cisco/
-sudo rm -rf Cisco/
-l
-ll
-ll
-ll
-ll
-ll
-d-down
-l
-mvim Creación_Prospecto.sql 
-vim Creación_Prospecto.sql 
-mvim Creación_Prospecto.sql 
-ping 161.131.141.251
-ping 161.131.141.251
-ping 161.131.141.251
-ssh 161.131.140.64
-ssh root@161.131.140.64
-ll
-d-down 
-ll
-l
-ls -l
-ll
-ll
-cd ll
-l
-d-wom 
-ll
-cd transformacion-loadtests
-ll
-. env/bin/activate
 ll
 deactivate 
 ll
-cd Work/
-l
-cd lab/
+rm -rf ENV/
 ll
-cd swift/
-ll
-vim hello.swift
-ll
-swiftc hello.swift -o hello
-l
-./hello
 cd ..
 ll
-cd go/
+git br
+git pull --rebase
+virtualenv ENV
 ll
-cd src/
+. ENV/bin/activate
 ll
-cd github.com/
+pip install mkdocs
+pip install --upgrade pip
+pip install mkdocs
 ll
-cd miguel-gh/
+pip freeze
+pip freeze > requirements.txt
 ll
-cd hello/
+cat requirements.txt 
 ll
-cat hello.go 
-vim hello.go 
+code .
+vim .gitignore
+git st
+git add .
 ll
-go build hello.go 
-ll
-./hello 
-ll
-ll
+git st
+git commit -m 'fix: Vuelve a agregar README.md, se agrega requirements.txt para replicar ambiente MkDocs'
+git push origin develop
 l
+ll
+cd estandar-qa/
+ll
+mkdocs serve
+pip install mkdocs-material
+cd ..
+ll
+pip freeze
+pip freeze > requirements.txt 
+ll
+git st
+git diff requirements.txt 
+ll
+mkdocs serve
+mkdocs serve estandar-qa/mkdocs.yml 
+mkdocs serve -h
+mkdocs serve -f estandar-qa/mkdocs.yml 
+mkdocs serve -f estandar-qa/mkdocs.yml 
+mkdocs serve -f estandar-qa/mkdocs.yml 
+ll
+cd estandar-qa/
+ll
+mkdocs serve
+mkdocs serve
+ll
+mkdocs serve
+cd
+ll
+. ~/.bash_profile 
+ll
+ping www.google.cl
+ping www.google.cl
+ping www.google.cl
+cd ~/Work/qa
+ll
+cd ~/Work/
+ll
+cd Tinet/
+ll
+cd qa/
+ll
+cd doc-estandar-qa/
+ll
+source ./ENV/bin/activate
+mkdocs serve
+ll
+cd estandar-qa/
+mkdocs serve
+ping www.google.cl
+deactivate 
+ll
+cd ~/WO
+cd ~/Work/
+ll
+cd Tinet/
+ll
+ll
+cd qa/
+ll
+cd macal/
+ll
+cd simulador-remates-selenium/
+ll
+cd macal-aut/
+ll
+code .
+cd ..
+l
+ll
+cd ..
+ll
+cd test-selenium-grid-headless/
+l
+ll
+code setup-ubuntu.sh 
+code .
+open .
+cd ..
+ll
+cd ..
+ll
+cd doc-estandar-qa/
+ll
+ll
+. ENV/bin/activate
+ll
+cd estandar-qa/
+ll
+mkdocs build --help
+ll
+mkdocs build -d site
+ll
+cd site/
+ll
+owd
+pwd
+pwd | pbcopy 
+pwd | pbcopy 
+open .
+deactivate 
+npm install --global fkill-cli
+npm -i -g npm
+npm i -g npm
+fkill cy
+fkill --help
+fkill
+fkill Cyberduck
+ping www.google.cl
+jhipster --version
+npm --version
+cd ..
+cd ..
+ll
+cd ..
+ll
+mkdir liberty
+ll
+cd li
+ll
+npm install -g generator-jhipster-react
+yo jhipster-react
+npm install generator-jhipster-react
+ll
+rm -rf node_modules/
+rm -rf package-lock.json 
+ll
+cd li
+cd liberty/
+ll
+jhipster --version
+jhipster --help
+npm update -g jhipster
+jhipster --version
+jhipster --help
+jhipster updagre
+jhipster upgrade
+yo --help
+yo completion
+source ~/.bash_pro
+source ~/.bash_profile 
+yo --help
+yo doctor
+whereis jhipster
+which jhipster
+yo
+npm update -g generator-jhipster
+jhipster --version
+npm -u -g generator-jhipster
+yo
+yo
+npm update -g yo
+yo --version
+npm install -g generator-jhipster
+yo
+yo --help
+jhipster --version
+yo doctort
+yo doctor
+brew search jhipster
+brew --help
+brew info jhipster
+brew upgrade jhipster
+jhipster --version
+jhipster example-liberty
+jhipster app example-liberty
+ll
+code .
+ll
+pwd | pbcopy 
+./mvnw 
+ping 192.168.130.99
+ping devosb.afphabitat.cl
+cd /Users/miguel/Work/Tinet/qa/liberty
+ll
+yarn start
+ll
+cd .
+cd ..
+ll
+rm -rf liberty/
+ll
+mkdir liberty
+ll
+cd liberty/
+ll
+git clone git@bitbucket.org:Tinet/liberty-tracking-siniestros-selenium-tests.git
+ll
+ll
+cd liberty-tracking-siniestros-selenium-tests/
+ll
+git fetch
+git br
+git pull --rebase master
+git pull master
+git br master
+git pull --rebase
+ll
+pwd | pbcopy 
+ll
+code .
+ll
+ruby --version
+rvm list
+rvm list known
+ll
+bundle install
+ll
+bundle exec cucumber --help
+bundle exec cucumber --init
+ll
+bundle exec cucumber --help
+ll
+ll
+mkdir config
+ll
+mkdir test-results
+ll
+ll
+ll
+mkdir logs
+ll
+bundle exec cucumber
+bundle exec cucumber
+ll
+cd test-results/
+ll
+open test-results.html 
+ll
+cd ..
+ll
+vim .gitignore
+ll
+git add .
+git st
+git commit -m 'cucumber init'
+git push origin master
+git st
+git add .
+git commit -m 'update: instrucciones de instalacion'
+git push origin master
+git st
+git add .
+git commit -m 'update: seccion webdriver en readme'
+git push origin master
+cd ..
+l
+ll
+cd ..
+ll
+cd wom/
+ll
+ll
+git clone git@bitbucket.org:Tinet/appium-wom.git
+ll
+cd appium-
+cd appium-wom/
+l
+ll
+ll
+cd RemoteSystemsTempFiles/
+ll
+ll
+cd ..
+ll
+ls -la
+cd RemoteSystemsTempFiles/
+ls -la
+vim .project 
+ll
+ls- la
+ls -la
+cat .project 
+vim .project 
+cat .project 
+cd ..
+ll
+cd ..
+ll
+cd appium-cucumber-java/
+ll
+vim RemoteSystemsTempFiles/
+cd RemoteSystemsTempFiles/
+ll
+vim .project 
+cd ..
+l
+ll
+cd appium-wom/
+ll
+ps -a
+ls -la
+cd set
+cd .settings/
+ll
+ls -l
+ls -la
+ls -lA
+tmls
+tmat all
+tmls
+tmat all
